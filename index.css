@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Inline+Text:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Big+Shoulders+Inline+Text:wght@500&display=swap');
+
+html{
+    position: relative;
+    width: 100%;
+    background: linear-gradient(#d4b8ee, #f088ab);
+    align-items: center;
+    font-family: 'Amatic SC', cursive;
+    background-color: rgb(245, 232, 252);
+    border: 2px solid grey;
+    border-radius: 5px;
+    
+      
+}
+
+.botonCalcular{
+    position: absolute;
+    top: 9.7rem;
+    left: 45.8rem;
+    background-color: rgb(245, 232, 252);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    color: rgb(136, 136, 136);
+    font-family: 'Amatic SC', cursive;
+    font-size: 110%;
+    
+}
+
+.resolver{
+    
+    background-color: rgb(245, 232, 252);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    color: rgb(136, 136, 136);
+    font-family: 'Amatic SC', cursive;
+    font-size: 80%;
+    
+}
+
+.solucion{
+    font-size: 170%;
+}
+
+.Tablas{
+    background: transparent;
+    border: none;
+
+}
+
+.letras{
+    font-size: 120%;
+
+}
+
+.restric{
+    background-color: rgb(248, 206, 213);
+    border: 2px solidrgb(165, 160, 160);
+    border-radius: 5px;
+    color: rgb(136, 136, 136);
+    font-family: 'Amatic SC', cursive;
+    font-size: 110%;
+
+}
+
+.op{
+    background-color: rgb(245, 232, 252);
+    border: 2px solid rgb(165, 160, 160);
+    border-radius: 5px;
+    color: rgb(136, 136, 136);
+    font-family: 'Amatic SC', cursive;
+    font-size: 110%;
+
+}
+
+.titulo{
+    background-color: rgb(245, 232, 252);
+    width: 70rem;
+    color: rgb(182, 182, 182);
+    font-family: 'Amatic SC', cursive;
+    font-size: 300%
+}
+
